@@ -15,32 +15,40 @@
 
 ---
 
-## ✨ Overview
+## 💡 Overview
 
-**Current** is a next-generation Android application built from the ground up with a full **Material 3 Expressive** design system. Featuring dynamic colors, spring-based animations, and rounded grouped cards, Current delivers a fluid, high-end user experience tailored for modern devices.
+> **Current** is a next-generation Android application built from the ground up with a full **Material 3 Expressive** design system. Featuring dynamic colors, spring-based physics, and rounded grouped cards, Current delivers a fluid, high-end user experience tailored for modern devices.
 
 ---
 
 ## 🎨 Design & Aesthetics
 
-* **Material 3 Expressive:** Embraces dynamic color tokens, organic shapes, and pill-based components.
-* **Fluid Layouts:** Custom typography powered by clean geometry and responsive cards.
-* **Crafted by Andrei:** Built with precision using Android Studio, Kotlin, and Jetpack Compose.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔮 Material 3 Expressive</h3>
+      <p>Embraces dynamic color tokens, organic shapes, and pill-based components for a playful yet elite user interface.</p>
+    </td>
+    <td width="50%">
+      <h3>⚡ Fluid Architecture</h3>
+      <p>Powered by clean geometry, responsive layouts, and modern MVVM principles using Jetpack Compose.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Tooling
 
-| Component | Technology |
-| :--- | :--- |
-| **Language** | Kotlin |
-| **UI Toolkit** | Jetpack Compose |
-| **Architecture** | Modern MVVM / Material Design 3 |
-| **Design Tools** | Figma & Material 3 Expressive Kit |
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Language** | Kotlin | Core logic & app development |
+| **UI Framework** | Jetpack Compose | Declarative Material 3 UI components |
+| **Design System** | Figma & Material 3 Kit | Custom organic blobs & typography |
+| **Environment** | Android Studio | Native build pipeline |
 
 ---
 
 <div align="center">
-  <p><b>Designed and developed with love
-  by Andrei</b></p>
+  <p><b>Crafted with precision and love by Andrei</b></p>
 </div>
