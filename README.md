@@ -1,8 +1,8 @@
 <div align="center">
 
-# Current
+# ⚡ CURRENT ⚡
 
-<img src="Untitled.png" alt="Current by Andrei Banner" width="100%" />
+<img src="MainBanner.png" alt="Current by Andrei Banner" width="100%" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -15,40 +15,31 @@
 
 ---
 
-## 💡 Overview
+## 🔮 What is Current?
 
-> **Current** is a next-generation Android application built from the ground up with a full **Material 3 Expressive** design system. Featuring dynamic colors, spring-based physics, and rounded grouped cards, Current delivers a fluid, high-end user experience tailored for modern devices.
-
----
-
-## 🎨 Design & Aesthetics
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔮 Material 3 Expressive</h3>
-      <p>Embraces dynamic color tokens, organic shapes, and pill-based components for a playful yet elite user interface.</p>
-    </td>
-    <td width="50%">
-      <h3>⚡ Fluid Architecture</h3>
-      <p>Powered by clean geometry, responsive layouts, and modern MVVM principles using Jetpack Compose.</p>
-    </td>
-  </tr>
-</table>
+> **Current** is a state-of-the-art Android app engineered with a full **Material 3 Expressive** design system. Featuring spring physics, dynamic color tokens, and fluid card layouts, it redefines how mobile interfaces look and feel.
 
 ---
 
-## 🚀 Tech Stack & Tooling
+## ✨ Core Highlights
 
-| Layer | Technology | Purpose |
+| Feature | Description | Aesthetic Value |
 | :--- | :--- | :--- |
-| **Language** | Kotlin | Core logic & app development |
-| **UI Framework** | Jetpack Compose | Declarative Material 3 UI components |
-| **Design System** | Figma & Material 3 Kit | Custom organic blobs & typography |
-| **Environment** | Android Studio | Native build pipeline |
+| **Dynamic Color** | Adapts seamlessly to system palettes | 🎨 10/10 Vibrant |
+| **Spring Physics** | Buttery smooth touch animations | ✨ Immersive Motion |
+| **Material 3 Expressive** | Custom organic shapes & pill layouts | 💅 Elite UI Geometry |
+
+---
+
+## 🎬 App Preview Showcase
+
+<div align="center">
+  <p><em>(Drop your upcoming screen recording or demo GIF here!)</em></p>
+  <img src="https://placehold.co/800x450/21005D/D0BCFF?text=Current+App+Showcase+Coming+Soon" alt="App Showcase Preview" width="100%" style="border-radius: 16px;" />
+</div>
 
 ---
 
 <div align="center">
-  <p><b>Crafted with precision and love by Andrei</b></p>
+  <p><b>Crafted with absolute precision and love by Andrei</b></p>
 </div>
