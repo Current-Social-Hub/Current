@@ -41,5 +41,6 @@
 ---
 
 <div align="center">
-  <p><b>Designed and developed with 💜 by Andrei</b></p>
+  <p><b>Designed and developed with love
+  by Andrei</b></p>
 </div>
